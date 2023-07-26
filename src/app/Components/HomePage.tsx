@@ -77,7 +77,7 @@ function HomePage() {
               most alluring camping spot in Lonavala. It is 20 kilometers from
               Lonavala city center. 110 kilometers from Mumbai city&sbquo; and 58
               kilometers from Pune city. We are offering you the best experience
-              at Pawna lake camping. We provide a tent stay&sbquo; unlimited dinner&sbquo;
+              at SUNSHINE CAMPING. We provide a tent stay&sbquo; unlimited dinner&sbquo;
               free snacks&sbquo; and delicious barbecue. Not only that&sbquo; but we provide
               live guitar music on specific day to soothe your evening. A
               campfire and adventure activities will add more fun to your trip.
