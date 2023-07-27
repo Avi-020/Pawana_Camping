@@ -101,7 +101,6 @@ function HomePage() {
           width: "100%",
           textAlign: "center",
           height: "100%",
-          backgroundColor: "red",
         }}
       >
         <Image
