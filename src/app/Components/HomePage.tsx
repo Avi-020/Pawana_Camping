@@ -100,8 +100,8 @@ function HomePage() {
         style={{
           width: "100%",
           textAlign: "center",
-          height: "150vh",
-          backgroundColor: "",
+          height: "100%",
+          backgroundColor: "red",
         }}
       >
         <Image
