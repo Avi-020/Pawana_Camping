@@ -112,6 +112,90 @@ function HomePage() {
           style={{ width: "100%", height: "auto" }}
         />
       </div>
+      <div
+        style={{
+          width: "100%",
+          textAlign: "center",
+          marginTop: "2vh",
+          marginBottom:"2vh"
+        }}
+      >
+        <h3>Sunshine Camping Packages and Rates</h3>
+      </div>
+      {/* table  */}
+
+<div className="table" style={{paddingLeft:"4vh",paddingRight:"4vh",marginBottom:"5vh"}}>
+
+
+      <table className="table">
+  <thead className="thead-light">
+    <tr>
+      <th scope="col" style={{textAlign:"center"}}>REGULAR CAMP</th>
+      <th scope="col" style={{textAlign:"center"}}>DELUX CAMP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style={{textAlign:"center"}}>
+      <td>₹1199 per person</td>
+      <td>₹1499 per person</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>4PM to next day 11AM</td>
+      <td>4PM to next day 11AM</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>Tea&sbquo; coffee&sbquo; poha in breakfast</td>
+      <td>Tea&sbquo; coffee&sbquo; poha&sbquo; bread&sbquo; jam&sbquo; anda bhurji in breakfast</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>No live guitar show</td>
+      <td>Live guitar on every Saturday</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>2/3 person sharing tents</td>
+      <td>2/3/4 person sharing tents</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>200g BBQ per person
+(Veg/Nveg)</td>
+      <td>250g BBQ per person
+(Veg/Nveg)</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>Unlimited dinner</td>
+      <td>Unlimited dinner</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>Common campfire</td>
+      <td>Common campfire</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>Trolley speaker</td>
+      <td>Trolley speaker</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>Free parking</td>
+      <td>Free parking</td>
+    </tr>
+    <tr style={{textAlign:"center"}}>
+      <td>Games: Archery&sbquo; Dart game&sbquo; Cricket&sbquo; Football&sbquo; Badminton&sbquo; Carrom&sbquo; Volleyball and more</td>
+      <td>Games: Archery&sbquo; Dart game&sbquo; Cricket&sbquo; Football&sbquo; Badminton&sbquo; Carrom&sbquo; Volleyball and more</td>
+    </tr>
+  </tbody>
+</table>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
     </>
   );
 }
