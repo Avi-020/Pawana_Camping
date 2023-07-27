@@ -1,0 +1,56 @@
+.ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(19, 18, 18);
+    padding-top:2vh;
+    padding-bottom:2vh;
+    color: aliceblue;
+  }
+  
+ .li {
+    display: inline;
+    padding-left:1vh;
+    padding-right:1vh;
+    color: aliceblue;
+    text-decoration: none;
+    cursor: pointer;
+   
+
+  }
+  .li:hover{
+    /* background-color: rgb(40, 40, 40); */
+    color: rgb(158, 208, 253);
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(245, 245, 245), 0 0 5px darkblue;
+}
+
+
+
+
+/* for deskstop */
+@media only screen and (min-width: 768px) {
+.heading1{
+font-size: 8vh;
+}
+
+
+}
+
+/* for tablet screen  */
+@media only screen and (min-width: 600px) {
+    /* For tablets: */
+    
+
+
+  }
+
+
+
+  /* for phone screen  */
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+   
+
+
+
+  }
